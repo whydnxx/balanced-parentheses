@@ -17,6 +17,6 @@ console.log(Utility.isBalanced("((()")); // false
 
 ## API
 
-`isBalanced(s: string): boolean`
+`isBalanced(str: string): boolean`
 
 Returns `true` if parentheses in string s are balanced, otherwise false.
